@@ -8,7 +8,8 @@
 - Random mini sfml c++ games
 - The occasional cod stuff
 
-![Alt Text](https://i.postimg.cc/zv1R0jLT/Rimuru.gif)
+![](Rimuru.gif)
+
 
 
 </br>
